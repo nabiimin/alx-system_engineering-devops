@@ -1,2 +1,2 @@
-#!/bin/basch
-cd
+#!/bin/bash
+ls
