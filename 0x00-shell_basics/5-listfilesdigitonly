@@ -1,2 +1,2 @@
 #!/bin/bashw
-ls-lns
+ls -lna
