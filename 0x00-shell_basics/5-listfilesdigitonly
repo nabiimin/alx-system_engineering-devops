@@ -1,2 +1,2 @@
-#!/bin/bash
-lw -lns
+#!/bin/bashw
+ls-lns
